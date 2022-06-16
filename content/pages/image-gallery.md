@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a gallery of images from a class field trip to
+  Iceland.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
