@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides the course description, the course outline,
+  and information on grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4576f9c7-70e7-2869-0a8a-c7bab27a788a
 ---

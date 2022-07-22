@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides a gallery of images from a class field trip to
+  Iceland.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 6e86ccf3-e891-7439-2a63-b64c76475321
 ---
 
-{{< image-gallery id="6e86ccf3-e891-7439-2a63-b64c76475321_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-753-geodynamics-seminar-spring-2001/" >}}
+{{< image-gallery id="6e86ccf3-e891-7439-2a63-b64c76475321_nanogallery2" baseUrl="/courses/12-753-geodynamics-seminar-spring-2001/" >}}
 {{< image-gallery-item href="83d0f4e9cbfb899f7f00daaab29f0c55_01.jpg" data-ngdesc="JP students Mark Behn and Mike Braun describe the parabola of seismic activity that rings the Snake River Plain - Yellowstone volcanic province with the Tetons in the background. Brian Tucholke." text="JP students Mark Behn and Mike Braun describe the parabola of seismic activity that rings the Snake River Plain - Yellowstone volcanic province with the Tetons in the background." >}}
 {{< image-gallery-item href="906d6cfdcd04f15f84efc530f4437d8c_02.jpg" data-ngdesc="Participants discuss geodetic constraints on recent uplift of the Yellowstone Plateau. Brian Tucholke." text="Participants discuss geodetic constraints on recent uplift of the Yellowstone Plateau." >}}
 {{< image-gallery-item href="80d7220e3ca37d4b797641d2a6cc7ff9_03.jpg" data-ngdesc="JP student Rosemarie Came describes geothermal activity in Yellowstone Geyser basin with help from field trip leader Greg Hirth. Brian Tucholke." text="JP student Rosemarie Came describes geothermal activity in Yellowstone Geyser basin with help from field trip leader Greg Hirth." >}}
